@@ -9,5 +9,6 @@ public class TestgitApplication {
     public static void main(String[] args) {
         SpringApplication.run(TestgitApplication.class, args);
         System.out.println("123456");
+        System.out.println("654321");
     }
 }
